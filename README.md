@@ -34,4 +34,5 @@ The purpose of this project is to establish a secure, controlled, and isolated s
 ## Verification Proof of Work
 Below is the terminal output capture displaying stable packet transmissions to Google's public DNS servers alongside active validation metrics:
 
-![Kali Linux Internet Ping Verification](kali_ping_success.png)
+<img width="1000" height="560" alt="kali_ping_success png" src="https://github.com/user-attachments/assets/58aacd1e-f144-41b0-a1b8-0d5d07c1f349" />
+
